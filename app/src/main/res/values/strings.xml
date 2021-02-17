@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">ControleSelecaoCheckbox</string>
+    <string name="txt_titulo">Quais os temas do seu interesse?</string>
+
+    <string name="ckb_cinema">Cinema</string>
+    <string name="ckb_futebol">Futebol</string>
+    <string name="ckb_gastronomia">Gastronomia</string>
+    <string name="ckb_informatica">Informática</string>
+    <string name="ckb_literatura">Literatura</string>
+    <string name="ckb_teatro">Teatro</string>
+
+    <string name="txt_selecionados">Total de temas selecionados</string>
+
+    <string name="btn_exibir">Exibir</string>
+    <string name="btn_desmarcar">Desmarcar</string>
+
+    <string name="action_setting">Configurações</string>
 </resources>
