@@ -23,7 +23,7 @@
         android:text="@string/ckb_cinema" />
 
     <CheckBox
-        android:id="@+id/ckbFutebo"
+        android:id="@+id/ckbFutebol"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textSize="16sp"
